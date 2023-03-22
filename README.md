@@ -24,6 +24,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" alt="TensorFlow" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank">
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhoang-creator&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3 align="left">Connect with me:</h3>
