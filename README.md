@@ -1,8 +1,5 @@
 # 👋 Welcome to my Git
 
-<!--
-**dhoang-creator/dhoang-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### My name is Duy Hoang and I'm an avid Scala Engineer aiming to specialise in Concurrency, Functional Effectual Programing & Big Data ML Models.
 
 - 🔭 I’m currently working on refining my application building workflow
