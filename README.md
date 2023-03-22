@@ -10,3 +10,8 @@
 - 📫 How to reach me: duyh1815@gmail.com
 - ⚡ Fun fact: For several years I was a political lobbyist and campaigner for charities and NGOs in the UK and I remember participating an 'ambush' of government officials with a group of people holding up artworks of their genitalia at a Sexual Health Conference to highlight how sexual health education isn't just procreation education.
 -->
+
+<h3 align="left">Connect with me:</h3>
+<a href="https://www.linkedin.com/in/duy-hoang-155930262/" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn Duy Hoang" height="30" width="40" /></a>
+</p>
