@@ -15,6 +15,3 @@
 <a href="https://www.linkedin.com/in/duy-hoang-155930262/" target="blank">
 <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn Duy Hoang" height="30" width="40" /></a>
 </p>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhoang-creator&layout=compact&langs_count=6](https://github.com/dhoang-creator)
