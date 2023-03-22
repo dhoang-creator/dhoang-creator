@@ -17,4 +17,4 @@
 </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhoang-creator](https://github.com/dhoang-creator)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhoang-creator&layout=compact](https://github.com/dhoang-creator)
