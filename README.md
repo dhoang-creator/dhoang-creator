@@ -13,5 +13,5 @@
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/duy-hoang-155930262/" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn Duy Hoang" height="30" width="40" /></a>
+<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn Duy Hoang" height="30" width="40" /></a>
 </p>
