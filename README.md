@@ -13,13 +13,13 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.scala-lang.org/" target="_blank">
-<img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original-wordmark.svg" alt="scala" width="40" height="50"/> </a>
+<img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original-wordmark.svg" alt="scala" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://kotlinlang.org/" target="_blank">
-<img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" alt="kotlin" width="40" height="50"/> </a>
+<img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" alt="kotlin" width="40" height="40"/> </a>
 <a href="https://kafka.apache.org/" target="_blank">
-<img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg" alt="apachekafka" width="40" height="50"/> </a>
+<img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg" alt="apachekafka" width="40" height="40"/> </a>
 <a href="https://www.tensorflow.org/" target="_blank">
 <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" alt="TensorFlow" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank">
