@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on refining my application building workflow
 - 🌱 I’m currently learning about integrating and utilising Kafka in my applications
-- 👯 I’m starting up a Functional Programming Hobbyist group on Meetup (:eyes: this space)
+- 👯 I’m starting up a Functional Programming group on Meetup alongside some Clojure, Elm & Haskell Engineers (:eyes: this space)
 - :love_letter: I'm starting up a blog documenting some standout topics for future wannabe Scala Engineers (:eyes: this space)
 - 🤔 I’m always looking for feedback
 - 📫 How to reach me: duyh1815@gmail.com
