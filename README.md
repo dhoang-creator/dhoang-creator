@@ -1,6 +1,6 @@
 # 👋 Welcome to my Git
 
-### My name is Duy Hoang and I'm an avid Scala Engineer aiming to specialise in Concurrency, Functional Effectual Programing & Big Data ML Models.
+### My name is Duy Hoang and I'm an avid Scala Engineer aiming to specialise in Concurrency, Functional Effectual Programming & Big Data ML Models.
 
 - 🌱 I’m currently learning about integrating and utilising Kafka in my applications
 - 👯 I’m starting up a Functional Programming group on Meetup alongside some Clojure, Elm & Haskell Engineers (:eyes: this space)
