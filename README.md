@@ -10,8 +10,6 @@
 - :fr: If I didn't come to Amsterdam to study software engineering, I was thinking of joining the Foreign Legion.
 - :closed_book: On track to read 60 books this year.
 - :mega: I co-organised an 'ambush' of government officials at a UK Sexual Health Conference with a group of young men and women who made art of their genitalia to highlight the deficiencies in Sex and Relationship Education at the time.
-- 
-- 
 -->
 
 <h3 align="left">Languages and Tools:</h3>
