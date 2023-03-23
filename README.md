@@ -6,8 +6,12 @@
 - 👯 I’m starting up a Functional Programming group on Meetup alongside some Clojure, Elm & Haskell Engineers (:eyes: this space)
 - :love_letter: I'm also starting up a blog documenting some standout topics for future wannabe Scala Engineers (:eyes: this space)
 - 📫 How to reach me: duyh1815@gmail.com
-- ⚡ Fun fact: If I didn't come to Amsterdam to study software engineering, I was thinking of joining the Foreign Legion.
-- :closed_book: On track to read 60 books this year
+- ⚡ Fun facts: 
+- :fr: If I didn't come to Amsterdam to study software engineering, I was thinking of joining the Foreign Legion.
+- :closed_book: On track to read 60 books this year.
+- :mega: I co-organised an 'ambush' of government officials at a UK Sexual Health Conference with a group of young men and women who made art of their genitalia to highlight the deficiencies in Sex and Relationship Education at the time.
+- 
+- 
 -->
 
 <h3 align="left">Languages and Tools:</h3>
