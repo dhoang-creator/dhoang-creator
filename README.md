@@ -3,7 +3,6 @@
 ### My name is Duy Hoang and I'm an avid Scala Engineer aiming to specialise in Concurrency, Functional Effectual Programming & Big Data ML Models.
 
 - 🌱 I’m currently learning about how and when we should build CQRS Apps and utilise Event Sourcing
-- 👯 I’m starting up a Functional Programming group on Meetup alongside some Clojure, Elm & Haskell Engineers (:eyes: this space)
 - :love_letter: I'm also starting up a blog documenting some standout topics for future wannabe Scala Engineers (:eyes: this space)
 - 📫 How to reach me: duyh1815@gmail.com
 
