@@ -3,7 +3,9 @@
 ### My name is Duy Hoang and I'm a Self-Taught Scala Engineer specialising in Building Reactive & Distributed Systems with an emphasis on Functional Effectual Programming alongside Building Big Data Stream Pipelines and utilising the data through Recommendation Algorithms and ML Models.
 
 - 🌱 I’m currently learning about: Make CQRS models for IO Programs, Building Event Driven N Tier Architected Applications alongside tools such as Apache Kafka & Building ML Models for Spark Streams.
+
 - :love_letter: I'm also starting up a blog documenting some standout topics for future wannabe Scala Engineers. Check it out at thefunctor.nl, I'll post a new article every single week.
+
 - 📫 How to reach me: duyh1815@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>
