@@ -1,10 +1,10 @@
 # 👋 Welcome to my Git
 
-### My name is Duy Hoang and I'm a Self-Taught Scala Engineer specialising in Building Reactive & Distributed Systems with an emphasis on Functional Effectual Programming alongside Building Big Data Stream Pipelines and utilising the data through Recommendation Algorithms and ML Models.
+### My name is Duy Hoang and I'm a Self-Taught Scala Engineer specialising in Building Reactive Microservice Architectures & Distributed Systems with an emphasis on Functional Effectual Programming alongside a passion for Building Big Data Stream Pipelines and utilising application data through the likes of Recommendation Algorithms and other ML Models.
 
-- 🌱 I’m currently learning about: Make CQRS models for IO Programs, Building Event Driven N Tier Architected Applications alongside tools such as Apache Kafka & Building ML Models for Spark Streams.
+- 🌱 I’m currently learning about/working on: Making a SpotifyAPI Web API using the likes of Finagle/Finch to utilise your personal listening data throughout the year,  Building an E-Commerce platform with a Scala Microservices backend and finally an App which will use ML Models to identify patterns within Stock Markets over the past couple of years and attempt to make predictions.
 
-- :love_letter: I'm also starting up a blog documenting some standout topics for future wannabe Scala Engineers. Check it out at thefunctor.nl, I'll post a new article every single week.
+- :love_letter: I''ve also started my very first technology blog, where I'll be posting articles to help beginner Scala Developers and Data Engineers
 
 - 📫 How to reach me: duyh1815@gmail.com
 
