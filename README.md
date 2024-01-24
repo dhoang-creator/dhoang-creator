@@ -1,15 +1,10 @@
 # 👋 Welcome to my Git
 
-### My name is Duy Hoang and I'm a Self-Taught Scala Engineer (with a background in C & C++) specialising in Building Reactive Microservice Architectures & Resilient Distributed Systems with an emphasis on Functional Effectual Programming.
+I have countless years of experience in building scalable and resilient Scala applications with particular interest in building highly performant and thoroughly tested applications through purely functional effectual tools such as Cats Effect and ZIO. Foundational knowledge and use of Scala OOP is a given with previous involvement with Lightbend stacks such as Akka, Play and Lagom.
 
-### Alongside this I have a passion for Building Big Data Pipelines, Batch and Stream Processing and utilising application logs/user data through the likes of Recommendation Algorithms and other ML Models.
+I have considerable exposure in building lightweight and standalone API endpoints utilising the likes of SoftwareMills Tapir to more complex applications modelled with the likes of Play MVC. On the data engineering side, I have in depth knowledge of both Apache Kafka and Apache Spark and in the role they play within ETL Pipelines. I ask the right questions concerning data and how your application works with data. 
 
-- 🌱 I’m currently learning about/working on:
-- Making a SpotifyAPI Web API using the likes of Finagle/Finch to utilise your personal listening data throughout the year,
-- Building an E-Commerce platform with a Scala Microservices backend and
-- Building an all encompassing App which uses ML Models to identify patterns within Stock Markets over the past couple of years and attempt to make predictions.
-
-- :love_letter: I''ve also started my very first technology blog, where I'll be posting articles to help beginner Scala Developers and Data Engineers
+Some of the more niche interest points include building low latency applications with the likes of ZIO and gRPC as API endpoints/microservices communication within Event Driven Applications using CQRS as opposed to ordinary CRUD database interactions, how businesses can leverage and thus automate their cloud computing resources (AWS) with the likes of Terraform Professional and using AWS Machine Learning to train models within Spark's MLlib.
 
 - 📫 How to reach me: duyh1815@gmail.com
 
