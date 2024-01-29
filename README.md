@@ -19,17 +19,6 @@ Hey there, my name is Duy Hoang and I'm a Freelance Scala Software Engineer, Big
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
 
-<a href="https://www.cprogramming.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://kotlinlang.org/" target="_blank">
-<img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" alt="kotlin" width="40" height="40"/> </a>
-<a href="https://kafka.apache.org/" target="_blank">
-<img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg" alt="apachekafka" width="40" height="40"/> </a>
-<a href="https://www.tensorflow.org/" target="_blank">
-<img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" alt="TensorFlow" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank">
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
-
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhoang-creator&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
