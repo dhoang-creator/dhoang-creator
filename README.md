@@ -5,6 +5,10 @@ Hey there, my name is Duy Hoang and I'm a Freelance Scala Software Engineer, Big
 
 <img src="{(https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)}" />
 
+![image]({[BadgeURLHere](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)})
+
+
+
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhoang-creator&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
