@@ -13,8 +13,6 @@ Hey there, my name is Duy Hoang and I'm a Freelance Scala Software Engineer, Big
 ![image](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 
 
-
-  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhoang-creator&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
