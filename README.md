@@ -3,9 +3,9 @@
 
 Hey there, my name is Duy Hoang and I'm a Freelance Scala Software Engineer, Big Data Engineer & only recently a tech business founder. I'm from the UK but I've made The Netherlands my home and I love all things purely functional programming related.
 
-<img src="{(https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)}" />
 
-![image]({(https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)})
+
+![image](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
 
 
