@@ -3,8 +3,7 @@
 
 Hey there, my name is Duy Hoang and I'm a Freelance Scala Software Engineer, Big Data Engineer & only recently a tech business founder. I'm from the UK but I've made The Netherlands my home and I love all things purely functional programming related.
 
-https://img.shields.io/badge/Big%20Data%20?logo=kafka
-
+![Static Badge](https://img.shields.io/badge/Big%20Data%20?logo=kafka)
 
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhoang-creator&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
