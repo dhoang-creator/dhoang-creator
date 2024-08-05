@@ -1,7 +1,7 @@
 # 👋 Welcome to my Git
 
 
-Hey there, my name is Duy Hoang and I'm a Freelance Scala Software Engineer, Big Data Engineer & only recently a tech business founder. I'm from the UK but I've made The Netherlands my home and I love all things purely functional programming related.
+Hey there, my name is Duy Hoang and I'm a Freelance Scala/Kotlin Software Engineer, Big Data Engineer & tech business founder. I'm from the UK but I've made The Netherlands my home and I love all things purely functional programming related and big data.
 
 
 ![image](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
