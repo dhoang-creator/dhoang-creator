@@ -1,9 +1,11 @@
 # 👋 Welcome to my Git
 
 
-Hey there, my name is Duy Hoang and I'm a Freelance Scala/Kotlin Software Engineer, Big Data Engineer & tech business founder. I'm from the UK but I've made The Netherlands my home and I love all things purely functional programming related and big data.
+Hey there, I'm a backend-focused software engineer with a passion for building clean, scalable and resilient systems with deep expertise in Java and Scala.
 
+📫 Let’s connect or collaborate on something meaningful—whether it's JVM-based engineering, open-source ideas, or better dev workflows.
 
+![image](https://img.shields.io/badge/Java-D8B00?style=for-the-badge&logo=java&logoColor=white)
 ![image](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
 ![image](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
 ![image](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
