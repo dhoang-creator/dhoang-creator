@@ -16,7 +16,7 @@ Hey there, I'm a backend-focused software engineer with a passion for building c
 ![image](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhoang-creator&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Tristan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhoang-creator)](https://github.com/dhoang-creator/github-readme-stats)
 
 
 <h3 align="left">Connect with me:</h3>
