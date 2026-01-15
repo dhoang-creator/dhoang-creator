@@ -17,6 +17,6 @@ Hey there, I'm a backend-focused software engineer with a passion for building c
 
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/duy-hoang-155930262/" target="blank">
+<a href="https://www.linkedin.com/in/dhoang-creator/" target="blank">
 <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn Duy Hoang" height="30" width="40" /></a>
 </p>
